@@ -1,6 +1,30 @@
 # Gustavo Salmerón
 
-Hi! I am an Unity developer from Brazil and also a musician. Here you can find many stuff I've made, most of them are games.
+![LinkedInLogo](https://user-images.githubusercontent.com/8738336/223234498-be99679a-c37c-4135-98eb-6f625f908478.png)
+
+## Introduction
+
+Hello! I am an Unity developer from Brazil and also a musician during my spare time. My main focus is to grow as a game developer, always focusing in a clean, extensible code, thus making the team more productive in the long run. I can also work as a music producer, having some games released with my music (Captain Hann Gover and Caipora Jump)
+
+## Knowledges
+
+### C#
+OOP, polymorphism, namespaces, LINQ, reflection, delegates, collections, generics, extension methods, interfaces.
+
+### Dominated design patterns
+Observer, Singleton, Strategy, Command, Finite State Machine, Behaviour Tree, Factory.
+
+### Unity
+FMOD, Odin Inspector, NodeCanvas, DOTween, ProBuilder, Timeline, Cinemachine, ShaderGraph, HLSL/ShaderLab;
+
+### Workflow
+Agile Scrum Methodology, Git Flow, Trello, Google Drive.
+
+### Music Production
+Composition, Ableton Live, Reaper, audio analysis and treatment, mix/master, sound synthesis, recording.
+
+### Blender
+Basic modelling, creating armatures and rigging meshes, exporting to Unity as .obj or .fbx, importing MagicaVoxel and Qubicle files to Blender.
 
 ## Some of my work
 
