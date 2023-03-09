@@ -33,12 +33,13 @@ https://user-images.githubusercontent.com/8738336/224025190-72cca56e-4fe4-4fa0-8
 
 ### [Elderand](https://store.steampowered.com/app/1413660/Elderand/) (Enemies's AI and audio integration with FMOD)
 
-![okok](https://user-images.githubusercontent.com/8738336/223228872-9aa84889-475c-45c7-a6de-26cf1a6171fe.gif)
+![querbhkg51shg3ms4qer](https://user-images.githubusercontent.com/8738336/224028795-9d245b15-7068-4c5f-8f3d-245af2b33c45.jpg)
 
 
 ### King's Feast (Enemies's path system, spawning system and audio integration with FMOD. Prototype not launched)
 
 https://user-images.githubusercontent.com/8738336/223910686-530fe901-5652-4c92-8168-c499295e77c9.mp4
+
 
 ### [Caipora Jump](https://ivo-the-hedgehog.itch.io/caipora-jump) (Music and sound effects)
 
