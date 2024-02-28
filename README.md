@@ -7,13 +7,13 @@ Hello! I am an Unity developer from Brazil and also a musician during my spare t
 # Knowledges
 
 ### C#
-OOP, polymorphism, namespaces, LINQ, reflection, delegates, collections, generics, extension methods, interfaces.
+OOP, polymorphism, namespaces, LINQ, reflection, delegates, collections, generics, extension methods, interfaces, async programming.
 
 ### Dominated design patterns
-Observer, Singleton, Strategy, Command, Finite State Machine, Behaviour Tree, Factory.
+MVVM, MVC, Observer, Singleton, Strategy, Command, Finite State Machine, Behaviour Tree, Factory.
 
 ### Unity
-FMOD, Odin Inspector, NodeCanvas, DOTween, ProBuilder, Timeline, Cinemachine, ShaderGraph, HLSL/ShaderLab;
+Photon Realtime, Photon Quantum, Addressables, UniTasks, FMOD, Odin Inspector, NodeCanvas, DOTween, ProBuilder, Timeline, Cinemachine, ShaderGraph, HLSL/ShaderLab;
 
 ### Workflow
 Agile Scrum Methodology, Git Flow, Trello, Google Drive.
@@ -25,6 +25,10 @@ Composition, Ableton Live, Reaper, audio analysis and treatment, mix/master, sou
 Basic modelling, creating armatures and rigging meshes, exporting to Unity as .obj or .fbx, importing MagicaVoxel and Qubicle files to Blender.
 
 # Some of my work
+
+### [Zombies Hate My Quavers](https://www.youtube.com/watch?v=Xh6d1ZF-6LA)
+![image](https://github.com/gsalmao/gsalmao/assets/8738336/d727fa23-077c-4e56-8c7a-4ce1398fc2b1)
+
 
 ### [Pocket People](https://github.com/gsalmao/PocketPeople)
 
