@@ -71,6 +71,8 @@ A simple open-source project, featuring an inventory and equipment system, with 
 https://user-images.githubusercontent.com/8738336/224025190-72cca56e-4fe4-4fa0-89d9-223d8e0d675b.mp4
 
 
-### King's Feast (Enemies's path system, spawning system and audio integration with FMOD. Prototype not launched)
+### King's Feast
 
+ For this project, I was responsible for the enemies's path and spawning system and audio integration with FMOD.
+ 
 https://user-images.githubusercontent.com/8738336/223910686-530fe901-5652-4c92-8168-c499295e77c9.mp4
