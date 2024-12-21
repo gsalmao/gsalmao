@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hello! I am an Unity developer from Brazil and also a musician during my spare time. My main focus is to grow as a game developer, always focusing in a clean, extensible code, thus making the team more productive in the long run. I can also work as a music producer, having some games released with my music (Captain Hann Gover and Caipora Jump)
+Hello! I am an Unity developer from Brazil and also a musician during my spare time. My main focus is to grow as a game developer, always focusing in a clean, extensible code, thus making the team more productive in the long run.
 
 # Knowledges
 
