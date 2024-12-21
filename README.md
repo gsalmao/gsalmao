@@ -27,15 +27,30 @@ Basic modelling, creating armatures and rigging meshes, exporting to Unity as .o
 # Some of my work
 
 ### [Zombies Hate My Quavers](https://www.youtube.com/watch?v=Xh6d1ZF-6LA)
+
+Simple project under development, a rhythm top-down shooter.
+
 ![image](https://github.com/gsalmao/gsalmao/assets/8738336/d727fa23-077c-4e56-8c7a-4ce1398fc2b1)
 
 
+### [EcoChess (Available on Itch.io)](https://ivo-the-hedgehog.itch.io/ecochess)
+
+Openworld chess, in a nutshell. each animal/person represents a chess piece. It was developed using Unity's DOTS+Burst compiler and, for the AI, it uses the Alpha Beta Prunning algorithm, an evolution of the Minimax algorithm. You can also use spells to affect the enemy/ terrain, such as petrifying an enemy piece or invoking a snowstorm.
+
+https://github.com/user-attachments/assets/435106c2-7150-48c7-ae8c-de8b97b7c0df
+
 ### [Pocket People](https://github.com/gsalmao/PocketPeople)
+
+A simple open-source project, featuring an inventory and equipment system, with lots of things for you to interact around the village.
 
 https://user-images.githubusercontent.com/8738336/224025190-72cca56e-4fe4-4fa0-89d9-223d8e0d675b.mp4
 
 
 ### [Elderand](https://store.steampowered.com/app/1413660/Elderand/) (Enemies's AI and audio integration with FMOD)
+
+https://www.youtube.com/watch?v=gMV2CKjum3Y
+
+In Elderand I was responsible for developing the AI of the enemies using Behaviour Trees/FSMs through the NodeCanvas asset. I was also responsible for all the audio integration with the project, such as mixing/treating audio and even creating some very few sounds for the game.
 
 ![querbhkg51shg3ms4qer](https://user-images.githubusercontent.com/8738336/224028795-9d245b15-7068-4c5f-8f3d-245af2b33c45.jpg)
 
