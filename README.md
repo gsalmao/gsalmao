@@ -73,6 +73,6 @@ https://user-images.githubusercontent.com/8738336/224025190-72cca56e-4fe4-4fa0-8
 
 ### King's Feast
 
- For this project, I was responsible for the enemies's path and spawning system and audio integration with FMOD.
+ For this project, I was responsible for the enemies's path, spawning system and audio integration with FMOD.
  
 https://user-images.githubusercontent.com/8738336/223910686-530fe901-5652-4c92-8168-c499295e77c9.mp4
