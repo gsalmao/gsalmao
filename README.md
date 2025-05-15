@@ -13,7 +13,10 @@ OOP, polymorphism, namespaces, LINQ, reflection, delegates, collections, generic
 MVVM, MVC, Observer, Singleton, Strategy, Command, Finite State Machine, Behaviour Tree, Factory.
 
 ### Unity
-Photon Realtime, Photon Quantum, Photon Pun, Addressables, Editor scripts, UniTasks, FMOD, Odin Inspector, NodeCanvas, DOTween, ProBuilder, Timeline, Cinemachine, ShaderGraph, HLSL/ShaderLab;
+Addressables, Editor scripts, UniTasks, FMOD, Odin Inspector, NodeCanvas, DOTween, ProBuilder, Timeline, Cinemachine, ShaderGraph, HLSL/ShaderLab;
+
+### Multiplayer Development
+Photon Realtime, Photon Quantum, Photon Pun, Azure, Playfab, Firebase, CBS.
 
 ### Workflow
 Agile Scrum Methodology, Git Flow, Trello, Google Drive.
