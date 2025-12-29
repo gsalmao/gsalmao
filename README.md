@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hello! I am an Unity developer from Brazil and also a musician during my spare time. My main focus is to grow as a game developer, always focusing in a clean, extensible code, thus making the team more productive in the long run.
+Hello! I am an Unity developer from Brazil with extensive experience in Gameplay Programming. My main focus is to grow as a game developer, always aiming for a clean, extensible code, thus making the team more productive in the long run.
 
 # Knowledges
 
@@ -15,17 +15,14 @@ MVVM, MVC, Observer, Singleton, Strategy, Command, Finite State Machine, Behavio
 ### Unity
 Addressables, Editor scripts, UniTasks, FMOD, Odin Inspector, NodeCanvas, DOTween, ProBuilder, Timeline, Cinemachine, ShaderGraph, HLSL/ShaderLab;
 
-### Multiplayer Development
-Photon Realtime, Photon Quantum, Photon Pun, Azure, Playfab, Firebase, CBS.
+### Multiplayer / Backend
+Photon Realtime, Photon Quantum, Photon Pun, Azure Functions, Playfab, Firebase, CBS.
 
 ### Workflow
-Agile Scrum Methodology, Git Flow, Trello, Google Drive.
+Agile Scrum Methodology, Trunk Based Development, Git Flow, Trello, Google Drive.
 
-### Music Production
-Composition, Ableton Live, Reaper, audio analysis and treatment, mix/master, sound synthesis, recording.
-
-### Blender
-Basic modelling, creating armatures and rigging meshes, exporting to Unity as .obj or .fbx, importing MagicaVoxel and Qubicle files to Blender.
+### Other knowledges
+Ableton Live, Reaper, Audacity, Blender.
 
 # Some of my work
 
@@ -40,6 +37,12 @@ In Elderand I was responsible for developing the AI of the enemies using Behavio
 A simple idle game developing during one month. Features day/night cycle, weapon upgrades and an inventory.
 
 ![image](https://github.com/user-attachments/assets/4a37660c-7ba4-4cbe-9723-05133ec8f29f)
+
+### [WarForged (Available on Google PlayStore)](https://play.google.com/store/apps/details?id=com.MallatEntertainment.Warforged&hl=pt)
+
+Multiplayer game developed for Mallat Entertainment. The game uses Photon Quantum.
+
+![image](https://github.com/user-attachments/assets/e9a05360-c166-4a2e-8ff4-c83c6e875124)
 
 ### [URP Pixel Shaders (Available on Unity Asset Store)](https://assetstore.unity.com/packages/vfx/shaders/urp-pixel-shaders-291309)
 
