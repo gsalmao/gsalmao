@@ -1,10 +1,10 @@
-![LinkedInLogo](https://user-images.githubusercontent.com/8738336/223234498-be99679a-c37c-4135-98eb-6f625f908478.png)
+# Gustavo Salmerón - Senior Unity Developer
 
-# Introduction
+## Introduction
 
 Hello! I am an Unity developer from Brazil with extensive experience in Gameplay Programming. My main focus is to grow as a game developer, always aiming for a clean, extensible code, thus making the team more productive in the long run.
 
-# Knowledges
+## Knowledges
 
 ### C#
 OOP, polymorphism, namespaces, LINQ, reflection, delegates, collections, generics, extension methods, interfaces, async programming.
@@ -24,7 +24,7 @@ Agile Scrum Methodology, Trunk Based Development, Git Flow, Trello, Google Drive
 ### Other knowledges
 Ableton Live, Reaper, Audacity, Blender.
 
-# Some of my work
+## Some of my work
 
 ### [Elderand (Available on Steam)](https://store.steampowered.com/app/1413660/Elderand/)
 
@@ -75,7 +75,6 @@ Simple project under development, a rhythm top-down shooter.
 A simple open-source project, featuring an inventory and equipment system, with lots of things for you to interact around the village.
 
 https://user-images.githubusercontent.com/8738336/224025190-72cca56e-4fe4-4fa0-89d9-223d8e0d675b.mp4
-
 
 ### King's Feast
 
